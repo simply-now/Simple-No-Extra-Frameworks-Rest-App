@@ -1,7 +1,7 @@
 # Steps To get running (Please Contact me if there are any issues 😅)
 
 ## Install Node Modules
-- If using the Gander-Assesment-With-Node-Modules.zip then skip this step 
+
 1. Navigate to Backend in terminal or bash and run npm update
 2. Navigate to Frontend in terminal or bash and run npm update
 
